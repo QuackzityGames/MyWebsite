@@ -1186,25 +1186,18 @@ section.lazy-placeholder:after {
 .cid-rUVoZQ1u0f .mbr-section-btn {
   text-align: left;
 }
-.cid-rUVkV55HWm {
+.cid-rVafe2aW5g {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #333333;
+  background: linear-gradient(0deg, #333333, #333333);
 }
-.cid-rUVkV55HWm .mbr-text {
-  color: #cccccc;
-  margin: 0;
-  padding-top: 1.5rem;
-  text-align: center;
+.cid-rVafe2aW5g .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
 }
-.cid-rUVkV55HWm div.b {
-  padding-top: 2rem;
+.cid-rVafe2aW5g .social-list a:focus {
+  text-decoration: none;
 }
-.cid-rUVkV55HWm H2 {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-rUVkV55HWm H5 {
-  text-align: center;
+.cid-rVafe2aW5g H2 {
   color: #ffffff;
 }
